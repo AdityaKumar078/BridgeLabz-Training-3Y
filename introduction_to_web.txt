@@ -15,11 +15,10 @@ Example: A developer who creates the complete online shopping website, including
 
 Basic diagram:
 
-+----------+       HTTP Request       +----------+
-|  Client  | -----------------------> |  Server  |
-| Browser  |                          |          |
-+----------+ <----------------------- +----------+
-             HTTP Response
+                HTTP Request       
+  Client  | -----------------------> |  Server  
+ Browser  
+                HTTP Response          
 
 	     The client is usually a web browser. It sends a request to the server. The server processes the request and sends a response back to the client.
 
