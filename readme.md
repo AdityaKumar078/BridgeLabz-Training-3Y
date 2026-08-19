@@ -1,4 +1,4 @@
-BridgeLab Training Lab 3Y
+BridgeLab Training 3Y
 
 
 
